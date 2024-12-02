@@ -4,6 +4,6 @@
 - 🌱 Major in information Engineering.
 
 
-![](https://github-readme-stats.vercel.app/api?username=Snape-max&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Snape-max&show_icons=true&theme=transparent&rank_icon=github)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Snape-max/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
